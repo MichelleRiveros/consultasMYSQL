@@ -21,9 +21,8 @@ Base de datos de empleados y sus departamentos usando MySQL
 ![Datos Empleado](/images/tabla_empleado.png)
 
 
-## Consultas
+## Consultas sobre una tabla
 
-### Una tabla
 1. Lista el primer apelldio de todos los empleados
 ![Primer punto](/images/punto_1.PNG)
 
@@ -135,3 +134,9 @@ sea Díaz o Moreno. Utilizando el operador IN.
 
 36. Lista los nombres, apellidos y nif de los empleados que trabajan en los departamentos 2, 4 o 5.
 ![Punto TreintaySeis](/images/punto_36.PNG)
+
+## Consultas multitabla (Composición interna)
+
+1. Devuelve un listado con los empleados y los datos de los departamentos
+donde trabaja cada uno.
+![Primer punto](/images/punto_1.PNG)

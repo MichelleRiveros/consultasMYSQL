@@ -140,3 +140,48 @@ sea Díaz o Moreno. Utilizando el operador IN.
 1. Devuelve un listado con los empleados y los datos de los departamentos
 donde trabaja cada uno.
 ![Primer punto](/images/1.1_punto.png)
+
+2. Devuelve un listado con los empleados y los datos de los departamentos
+donde trabaja cada uno. Ordena el resultado, en primer lugar por el nombre
+del departamento (en orden alfabético) y en segundo lugar por los apellidos
+y el nombre de los empleados.
+![Segundo punto](/images/2.1_punto.PNG)
+
+3. Devuelve un listado con el identificador y el nombre del departamento,
+solamente de aquellos departamentos que tienen empleados.
+![Tercer punto](/images/3.1.PNG)
+
+4. Devuelve un listado con el identificador, el nombre del departamento y el
+valor del presupuesto actual del que dispone, solamente de aquellos
+departamentos que tienen empleados. El valor del presupuesto actual lo
+puede calcular restando al valor del presupuesto inicial
+(columna presupuesto) el valor de los gastos que ha generado
+(columna gastos).
+![Cuarto punto](/images/4.1_punto.PNG)
+
+5. Devuelve el nombre del departamento donde trabaja el empleado que tiene
+el nif 38382980M.
+![Quinto punto](/images/5.1_punto.PNG)
+
+6. Devuelve el nombre del departamento donde trabaja el empleado Pepe Ruiz
+Santana.
+![Sexto punto](/images/6.1_punto.PNG)
+
+7. Devuelve un listado con los datos de los empleados que trabajan en el
+departamento de I+D. Ordena el resultado alfabéticamente.
+![Septimo punto](/images/7.1.PNG)
+
+8. Devuelve un listado con los datos de los empleados que trabajan en el
+departamento de Sistemas, Contabilidad o I+D. Ordena el resultado
+alfabéticamente.
+![Octavo punto](/images/8.1_punto.PNG)
+
+9. Devuelve una lista con el nombre de los empleados que tienen los
+departamentos que no tienen un presupuesto entre 100000 y 200000 euros.
+![Noveno punto](/images/9.1_punto.PNG)
+
+10. Devuelve un listado con el nombre de los departamentos donde existe
+algún empleado cuyo segundo apellido sea NULL. Tenga en cuenta que no
+debe mostrar nombres de departamentos que estén repetidos.
+![Decimo punto](/images/10.1_punto.PNG)
+

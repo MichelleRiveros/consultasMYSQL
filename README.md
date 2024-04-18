@@ -139,4 +139,4 @@ sea Díaz o Moreno. Utilizando el operador IN.
 
 1. Devuelve un listado con los empleados y los datos de los departamentos
 donde trabaja cada uno.
-![Primer punto](/images/punto_1.PNG)
+![Primer punto](/images/1.1punto.PNG)

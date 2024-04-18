@@ -261,3 +261,58 @@ aquellos departamentos que no tienen ningún empleado asociado.
 12. Calcula el número de empleados que trabajan en cada unos de los
 departamentos que tienen un presupuesto mayor a 200000 euros.
 ![Doceavo punto](/images/12_punto.PNG)
+
+## Subconsultas
+
+### Con operadores básicos de comparación
+
+1. Devuelve un listado con todos los empleados que tiene el departamento
+de Sistemas. (Sin utilizar INNER JOIN).
+![Primer punto](/images/1.5_punto.PNG)
+
+2. Devuelve el nombre del departamento con mayor presupuesto y la cantidad
+que tiene asignada.
+![Segundo punto](/images/2.5_punto.PNG)
+
+3. Devuelve el nombre del departamento con menor presupuesto y la cantidad
+que tiene asignada.
+![Tercer punto](/images/3.5_punto.PNG)
+
+
+### Subconsultas con ALL y ANY
+
+4. Devuelve el nombre del departamento con mayor presupuesto y la cantidad
+que tiene asignada. Sin hacer uso de MAX, ORDER BY ni LIMIT.
+![Cuarto punto](/images/4.5_punto.PNG)
+
+5. Devuelve el nombre del departamento con menor presupuesto y la cantidad
+que tiene asignada. Sin hacer uso de MIN, ORDER BY ni LIMIT.
+![Quinto punto](/images/5.5_punto.PNG)
+
+6. Devuelve los nombres de los departamentos que tienen empleados
+asociados. (Utilizando ALL o ANY).
+![Sexto punto](/images/6.5_punto.PNG)
+
+7. Devuelve los nombres de los departamentos que no tienen empleados
+asociados. (Utilizando ALL o ANY).
+![Septimo punto](/images/7.5_punto.PNG)
+
+### Subconsultas con IN y NOT IN
+
+8. Devuelve los nombres de los departamentos que tienen empleados
+asociados. (Utilizando IN o NOT IN).
+![Octavo punto](/images/8.5_punto.PNG)
+
+9. Devuelve los nombres de los departamentos que no tienen empleados
+asociados. (Utilizando IN o NOT IN).
+![Noveno punto](/images/9.5_punto.PNG)
+
+### Subconsultas con EXISTS y NOT EXISTS
+
+10. Devuelve los nombres de los departamentos que tienen empleados
+asociados. (Utilizando EXISTS o NOT EXISTS).
+![Decimo punto](/images/10.5_punto.PNG)
+
+11. Devuelve los nombres de los departamentos que tienen empleados
+asociados. (Utilizando EXISTS o NOT EXISTS).
+![Onceavo punto](/images/11.5_punto.PNG)

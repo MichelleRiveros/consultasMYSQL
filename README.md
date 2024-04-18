@@ -205,9 +205,59 @@ departamentos donde trabajan. El listado debe incluir los empleados que no
 tienen ningún departamento asociado y los departamentos que no tienen
 ningún empleado asociado. Ordene el listado alfabéticamente por el
 nombre del departamento.
-![Primer punto](/images/4.2_punto.PNG)
+![Cuarto punto](/images/4.2_punto.PNG)
 
 5. Devuelve un listado con los empleados que no tienen ningún departamento
 asociado y los departamentos que no tienen ningún empleado asociado.
 Ordene el listado alfabéticamente por el nombre del departamento.
-![Primer punto](/images/5.2_punto.PNG)
+![Quinto punto](/images/5.2_punto.PNG)
+
+
+## Consultas resumen
+
+1. Calcula la suma del presupuesto de todos los departamentos.
+![Primer punto](/images/1_punto.PNG)
+
+2. Calcula la media del presupuesto de todos los departamentos.
+![Segundo punto](/images/2_punto.PNG)
+
+3. Calcula el valor mínimo del presupuesto de todos los departamentos.
+![Tercero punto](/images/3_punto.PNG)
+
+4. Calcula el nombre del departamento y el presupuesto que tiene asignado,
+del departamento con menor presupuesto.
+![Cuarto punto](/images/4_punto.PNG)
+
+5. Calcula el valor máximo del presupuesto de todos los departamentos.
+![Quinto punto](/images/5_punto.PNG)
+
+6. Calcula el nombre del departamento y el presupuesto que tiene asignado,
+del departamento con mayor presupuesto.
+![Sexto punto](/images/6_punto.PNG)
+
+7. Calcula el número total de empleados que hay en la tabla empleado.
+![Septimo punto](/images/7_punto.PNG)
+
+8. Calcula el número de empleados que no tienen NULL en su segundo
+apellido.
+![Octavo punto](/images/8_punto.PNG)
+
+9. Calcula el número de empleados que hay en cada departamento. Tienes que
+devolver dos columnas, una con el nombre del departamento y otra con el
+número de empleados que tiene asignados.
+![Noveno punto](/images/9_punto.PNG)
+
+10. Calcula el nombre de los departamentos que tienen más de 2 empleados. El
+resultado debe tener dos columnas, una con el nombre del departamento y
+otra con el número de empleados que tiene asignados.
+![Decimo punto](/images/10_punto.PNG)
+
+
+11. Calcula el número de empleados que trabajan en cada uno de los
+departamentos. El resultado de esta consulta también tiene que incluir
+aquellos departamentos que no tienen ningún empleado asociado.
+![Onceavo punto](/images/11_punto.PNG)
+
+12. Calcula el número de empleados que trabajan en cada unos de los
+departamentos que tienen un presupuesto mayor a 200000 euros.
+![Doceavo punto](/images/12_punto.PNG)
